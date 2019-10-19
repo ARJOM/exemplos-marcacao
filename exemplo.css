@@ -2,3 +2,15 @@ table, td, th {
     border-collapse: collapse;
     border: 1px solid black;
 }
+
+p, li {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    color: #4F4F4F;
+}
